@@ -1,0 +1,27 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.5.4.3-00049-DIVAR-1", 
+        "apps": "LA.UM.9.15-46704-KAMORTA.1-8", 
+        "apps_qssi": "LA.QSSI.11.0-46804-qssi.1-37", 
+        "boot": "BOOT.XF.4.1-00283-KAMORTALAZ-1", 
+        "btfm": "BTFM.CHE.2.1.6-00018-QCACHROM-1", 
+        "btfm_cmc_120": "BTFM.CMC.1.2.0-00200-QCACHROM-2", 
+        "btfm_cmc_130": "BTFM.CMC.1.3.0-00020-QCACHROM-1", 
+        "cdsp": "CDSP.VT.2.4.1-00238-KAMORTA-1", 
+        "common": "Divar.LA.1.0-00073-STD.W3K.HY11.INT-1", 
+        "glue": "GLUE.DIVAR_LA.1.0-00061-NOOP_TEST-1", 
+        "modem": "MPSS.HA.1.1-00069-DIVAR_GENW3K_TEST-2", 
+        "rpm": "RPM.BF.1.10-00188-KAMORTAAAAAANAAR-1", 
+        "tz": "TZ.XF.5.1-01012-KAMORTAAAAAANAZT-1", 
+        "tz_apps": "TZ.APPS.2.0-00184-KAMORTAAAAAANAZT-1", 
+        "video": "VIDEO.VE.6.0-00045-PROD-1", 
+        "wapi": "WLAN_ADDON.HL.1.0-00049-CNSS_RMZ_WAPI-1", 
+        "wlan": "WLAN.HL.3.2.4-00921-QCAHLSWMTPL-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Divar.LA.1.0-00073-STD.W3K.HY11.INT-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2021-08-09 00:58:48"
+    }, 
+    "Version": "1.0"
+}
